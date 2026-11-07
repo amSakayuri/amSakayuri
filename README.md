@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 你好，我是amSakayuri也可以叫我Richard！
+# 👋 你好，我是amSakayuri！
 
-**(a.k.a. amSakayuri)**
+**(也可以叫我Richard)**
 
 > 🌸 很高兴遇见你！
 > 一名热爱计算机与创造的开发者，正在探索技术的无限可能。
@@ -101,7 +101,7 @@
 
 - 🐙 GitHub: [amSakayuri](https://github.com/amSakayuri)
 - 📧 Email: amjhh@outlook.com
-- 🌐 Blog: blog.amSakayuri.cn
+- 🌐 Blog: [我的博客][https://blog.amSakayuri.cn]
 - 
 ---
 
