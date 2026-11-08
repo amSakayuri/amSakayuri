@@ -2,7 +2,7 @@
 
 # 👋 你好，我是amSakayuri！
 
-**(也可以叫我Richard)**
+** 也可以叫我Richard **
 
 > 🌸 很高兴遇见你！
 > 一名热爱计算机与创造的开发者，正在探索技术的无限可能。
@@ -100,9 +100,9 @@
 ## 📬 联系我
 
 - 🐙 GitHub: [amSakayuri](https://github.com/amSakayuri)
-- 📧 Email: amjhh@outlook.com
-- 🌐 Blog: [我的博客][https://blog.amSakayuri.cn]
-- 
+- 📧 Email: iamjhh@outlook.com
+- 🌐 Blog: [我的博客](https://blog.amSakayuri.cn)
+
 ---
 
 <div align="center">
